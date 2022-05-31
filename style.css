@@ -14,7 +14,7 @@ body {
   background-color: rgba(0,0,0,.1) 
 }
 
-.img {
+img {
   display: inline-block;
   margin: 25px 10px;
 }
